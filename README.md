@@ -11,7 +11,7 @@ Clone the repository: `git clone https://github.com/google-ar/arcore-android-sdk
 
 
 
-#### You must use a supported, physical device. ARCore does not support virtual devices such as the Android Emulator. To prepare your device:
+#### You must use a supported, physical device (Google Pixel or Samsung Galaxy S8). ARCore does not support virtual devices such as the Android Emulator. To prepare your device:
 
 * Enable developer options
 * Enable USB debugging
